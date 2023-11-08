@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<com.github.nogueiralegacy.xml.domain.Funcionario>
+    <cpf>54321</cpf>
+    <nome>Luca</nome>
+    <idade>855</idade>
+    <salario>4200.0</salario>
+    <cargo>Escritor</cargo>
+    <habilidades>
+        <string>Escrever rom�nces</string>
+    </habilidades>
+</com.github.nogueiralegacy.xml.domain.Funcionario>

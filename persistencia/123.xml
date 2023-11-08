@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><com.github.nogueiralegacy.xml.domain.Funcionario><cpf>123</cpf><nome>Sergio</nome><idade>64</idade><salario>15000.0</salario><cargo>Executivo</cargo><habilidades><string>Desenvolvimento de software Básico</string><string>COnversar fiado</string></habilidades></com.github.nogueiralegacy.xml.domain.Funcionario>
